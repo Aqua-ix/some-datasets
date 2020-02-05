@@ -78,6 +78,8 @@ http://eigentaste.berkeley.edu/dataset/archive/jester_dataset_2.zip
 ## Libimseti
 135,359 users 168,791 profiles 17,359,346 ratings
 
+Available from:
+
 http://www.occamslab.com/petricek/data/
 
 ## Epinions
